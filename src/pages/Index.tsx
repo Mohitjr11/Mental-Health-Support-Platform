@@ -142,7 +142,7 @@ const Index = () => {
               quote="Finding the right therapist used to be so difficult. MindLink matched me with someone who truly understands my needs."
               name="Pranav."
               role="Using MindLink for 1 year"
-              avatar="https://media-bom2-3.cdn.whatsapp.net/v/t61.24694-24/483637521_1539590653379658_1310866403660308633_n.jpg?ccb=11-4&oh=01_Q5Aa1QHz-q4AQxUjugH0NzH46FSEMQHXJIxv9-ijiObKQAW00g&oe=680BA36A&_nc_sid=5e03e0&_nc_cat=103"
+              avatar="https://s.hs-data.com/bilder/spieler/gross/142105.jpg"
               delay={0.2}
             />
             <TestimonialCard 
