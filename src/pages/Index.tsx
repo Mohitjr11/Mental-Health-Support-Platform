@@ -135,7 +135,7 @@ const Index = () => {
               quote="The mood tracking feature helped me identify patterns I never noticed before. It's been crucial for my therapy sessions."
               name="Harsh."
               role="Using MindLink for 8 months"
-              avatar="https://media-bom2-3.cdn.whatsapp.net/v/t61.24694-24/471841802_1259903425221512_4014272666401041444_n.jpg?ccb=11-4&oh=01_Q5Aa1QGSQF-Q6RDcPx3WqIdpvuaMOxvgdC36yGFWGgRYedAUsA&oe=6810386F&_nc_sid=5e03e0&_nc_cat=105"
+              avatar="https://sportsmatik.com/uploads/world-events/players/lionel-messi_1564492648.jpg"
               delay={0.1}
             />
             <TestimonialCard 

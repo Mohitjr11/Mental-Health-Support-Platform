@@ -4,10 +4,12 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Button } from "@/components/ui/button";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Play, Pause, Moon, Wind, Sunrise, BookOpen } from "lucide-react";
+import JournalModal from "@/components/JournalModal";
 
 export default function Mindfulness() {
   const [isPlaying, setIsPlaying] = useState(false);
   const audioRef = useRef(null);
+  const [showJournal, setShowJournal] = useState(false);
 
   const toggleAudio = () => {
     if (audioRef.current) {
@@ -199,7 +201,8 @@ export default function Mindfulness() {
                     <p className="text-muted-foreground">
                       Taking a few minutes each day to reflect on what you're grateful for can significantly improve your mental well-being.
                     </p>
-                    <Button>Open Journal</Button>
+                    <Button onClick={() => setShowJournal(true)}>Open Journal</Button>
+                    <JournalModal open={showJournal} onClose={() => setShowJournal(false)} />
                   </div>
                 </CardContent>
               </Card>

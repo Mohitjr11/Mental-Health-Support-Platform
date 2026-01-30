@@ -16,7 +16,7 @@ const professionalsList = [
     reviews: 124,
     price: "₹1,500",
     availability: "Mon, Wed, Fri",
-    image: "https://media-bom2-3.cdn.whatsapp.net/v/t61.24694-24/386585643_1727303031119505_8202773926635295779_n.jpg?ccb=11-4&oh=01_Q5AaIW3Ukz6gBvdBYYb5sKYfB0WYNXIYiSa1J6DaiuPcZCMA&oe=67E68C5D&_nc_sid=5e03e0&_nc_cat=100",
+    image: "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
     bio: "Dr. Singh specializes in cognitive behavioral therapy and has helped hundreds of clients overcome anxiety and depression. He takes a compassionate, evidence-based approach to therapy."
   },
   {
@@ -29,7 +29,7 @@ const professionalsList = [
     reviews: 98,
     price: "₹2,000",
     availability: "Tue, Thu, Sat",
-    image: "https://media-bom2-3.cdn.whatsapp.net/v/t61.24694-24/473403691_2563965973797465_2263313867364392720_n.jpg?ccb=11-4&oh=01_Q5Aa1QFmLTZXv5rvBLESpzoU-FkHbiYSdP4sQO3exaQUBcWNcg&oe=680B9E68&_nc_sid=5e03e0&_nc_cat=100",
+    image: "https://thumbs.dreamstime.com/b/indian-doctor-stethoscope-around-neck-his-office-170292594.jpg",
     bio: "Dr. Khadkikar is board-certified in psychiatry with extensive experience in medication management. He believes in a holistic approach that considers both medication and lifestyle factors."
   },
   {
@@ -81,7 +81,7 @@ const professionalsList = [
     reviews: 91,
     price: "₹1,600",
     availability: "Wed, Fri, Sat",
-    image: "https://media-bom2-3.cdn.whatsapp.net/v/t61.24694-24/471841802_1259903425221512_4014272666401041444_n.jpg?ccb=11-4&oh=01_Q5Aa1QGSQF-Q6RDcPx3WqIdpvuaMOxvgdC36yGFWGgRYedAUsA&oe=6810386F&_nc_sid=5e03e0&_nc_cat=105",
+    image: "https://img.freepik.com/free-photo/portrait-male-health-worker_23-2148980804.jpg",
     bio: "Dr. Dhanawade specializes in addiction recovery and supporting families affected by substance abuse. He takes a non-judgmental, recovery-oriented approach to treatment."
   }
 ];
